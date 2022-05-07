@@ -1,0 +1,439 @@
+fileFormatVersion: 2
+guid: 27e37533e3df2f54b82ed64148e88d0b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6544473069749860791
+    second: __cartoon_fish_04_silver_swim_0
+  - first:
+      213: -1329628951406434270
+    second: __cartoon_fish_04_silver_swim_1
+  - first:
+      213: -1651355044971505048
+    second: __cartoon_fish_04_silver_swim_2
+  - first:
+      213: -8493684834345634677
+    second: __cartoon_fish_04_silver_swim_3
+  - first:
+      213: -3102291874174811216
+    second: __cartoon_fish_04_silver_swim_4
+  - first:
+      213: -3483795557218807594
+    second: __cartoon_fish_04_silver_swim_5
+  - first:
+      213: -4939883145389828190
+    second: __cartoon_fish_04_silver_swim_6
+  - first:
+      213: -2433118380465845729
+    second: __cartoon_fish_04_silver_swim_7
+  - first:
+      213: 587639248074359003
+    second: __cartoon_fish_04_silver_swim_8
+  - first:
+      213: 3111072316202972084
+    second: __cartoon_fish_04_silver_swim_9
+  - first:
+      213: 8755133030997633857
+    second: __cartoon_fish_04_silver_swim_10
+  - first:
+      213: 2035410630309892962
+    second: __cartoon_fish_04_silver_swim_0
+  - first:
+      213: -4890452978091788948
+    second: __cartoon_fish_04_silver_swim_1
+  - first:
+      213: -6018331358336886478
+    second: __cartoon_fish_04_silver_swim_2
+  - first:
+      213: 7025270579368446080
+    second: __cartoon_fish_04_silver_swim_3
+  - first:
+      213: -425484105917256020
+    second: __cartoon_fish_04_silver_swim_4
+  - first:
+      213: 1977959829338596499
+    second: __cartoon_fish_04_silver_swim_5
+  - first:
+      213: 86664740390622856
+    second: __cartoon_fish_04_silver_swim_6
+  - first:
+      213: 7059963783567652835
+    second: __cartoon_fish_04_silver_swim_7
+  - first:
+      213: -6943361432213700495
+    second: __cartoon_fish_04_silver_swim_8
+  - first:
+      213: 2072494484210050240
+    second: __cartoon_fish_04_silver_swim_9
+  - first:
+      213: 287620607680390301
+    second: __cartoon_fish_04_silver_swim_10
+  - first:
+      213: -4256293980935182078
+    second: __cartoon_fish_04_silver_swim_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: __cartoon_fish_04_silver_swim_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 325
+        width: 358
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263dca72f2b3f3c10800000000000000
+      internalID: 2035410630309892962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __cartoon_fish_04_silver_swim_1
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 354
+        width: 343
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65761a5dee912cb0800000000000000
+      internalID: -4890452978091788948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __cartoon_fish_04_silver_swim_2
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 354
+        width: 327
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2395cbd14879a7ca0800000000000000
+      internalID: -6018331358336886478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __cartoon_fish_04_silver_swim_3
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 354
+        width: 312
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0884246de56ce7160800000000000000
+      internalID: 7025270579368446080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __cartoon_fish_04_silver_swim_4
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 193
+        width: 343
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae2a31c570681af0800000000000000
+      internalID: -425484105917256020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __cartoon_fish_04_silver_swim_5
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 162
+        width: 358
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39428bf2cff137b10800000000000000
+      internalID: 1977959829338596499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __cartoon_fish_04_silver_swim_6
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 193
+        width: 344
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886d8894f15e33100800000000000000
+      internalID: 86664740390622856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __cartoon_fish_04_silver_swim_7
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 32
+        width: 329
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e73ca6e7a70af160800000000000000
+      internalID: 7059963783567652835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __cartoon_fish_04_silver_swim_8
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 32
+        width: 313
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17041cd909934af90800000000000000
+      internalID: -6943361432213700495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __cartoon_fish_04_silver_swim_9
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 32
+        width: 327
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4eb4ab0caf2cc10800000000000000
+      internalID: 2072494484210050240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __cartoon_fish_04_silver_swim_10
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 32
+        width: 342
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d942fd63b65ddf300800000000000000
+      internalID: 287620607680390301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __cartoon_fish_04_silver_swim_11
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 186
+        width: 334
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209a9b6dc2b9ee4c0800000000000000
+      internalID: -4256293980935182078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
